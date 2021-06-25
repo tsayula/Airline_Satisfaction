@@ -1,5 +1,5 @@
 # Airline_Satisfaction
-By: Edgar Gonzalez & Lera Tsayukova!
+By: Edgar Gonzalez & Lera Tsayukova
 
 ![pexels-alex-pham-950225](https://user-images.githubusercontent.com/75099138/123377428-13269280-d55a-11eb-8637-427595f244da.jpg)
 
@@ -127,7 +127,11 @@ We have created a fairly precise classification model with over 90% accuracy in 
  
 ### Repository 
 -READ.me
+
 -data
+
 -visuals
+
 -Project Notebook.ipynb
+
 -Airline_Satisfaction.pdf

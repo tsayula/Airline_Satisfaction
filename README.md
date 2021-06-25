@@ -19,6 +19,13 @@ Our Dataset came from Kaggle, although the airline source chose to remain anonym
 -To understand which features have the greatest impact on overall customer satisfaction
 
 -Inferential : Understand relationship between X- features & Y- target
+Lera: After evaluating our dataset we concluded that our business problem, was more inferential and less predictive. 
+
+In other words, we want to understand how customer satisfaction is influenced by various factors such as age, leg room, gender, inflight service etc. 
+
+We care less about accurately predicting how satisfied a person will be according to their experiences, and care more about what factors affect that experience.
+
+This is due in large part to the level of influence that the airline has over most of these factors. While age, gender, and flight length are factors which are static variables, airlines can in part always do more to improve certain metrics such as seat comfort, boarding experience, check-in etc, and thus attract more customers, increasing sales revenue. Thus leading us to an inferential model as opposed to a predictive one.​
 
 ### C)Who would care: 
 
